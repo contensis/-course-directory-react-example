@@ -1,0 +1,19 @@
+[
+  {
+    "ucasCode": "LUDSCW101",
+    "entryRequirements": "2:1",
+    "ukFee": "£11,500",
+    "location": "Ludlow",
+    "entryTitle": "History BA",
+    "title": "History BA",
+    "startDate": "September",
+    "entryDescription": "History is a fascinating subject that explores the past and the events that have shaped our world. This university course provides students with a comprehensive overview of world history, including the development of cultures, civilisations, and nations.",
+    "content": "<p>The course begins with an examination of the early civilisations of Mesopotamia, Egypt, and China, and covers their political, economic, and cultural systems. The course then moves on to study the mediaeval period, including the rise of feudalism, the Crusades, and the Black Death.</p><p>The Renaissance and Enlightenment periods are covered in detail, including the scientific, artistic, and philosophical revolutions that took place. The course then explores the French Revolution and the rise of Napoleon, followed by the Industrial Revolution and the colonial era.</p><p>Students will also study the world wars of the 20th century, including World War I and World War II, and the Cold War. The course will also cover the evolution of modern-day politics and economics, including the rise of globalisation and the impact of technology on society.</p><p>Throughout the course, students will engage in critical thinking, analysis, and discussion, and will gain a deeper understanding of the historical events and their impact on our world. The course is taught by experienced professors, who will provide students with a wealth of knowledge and expertise in the field of history.</p><p>In addition to lectures and readings, students will complete a research project, where they will have the opportunity to explore a topic of their choice in more depth. By the end of the course, students will have a comprehensive understanding of world history and will be well equipped to continue their studies in the field.</p>",
+    "sys": {
+      "contentTypeId": "course",
+      "projectId": "playground",
+      "language": "en-GB",
+      "dataFormat": "entry"
+    }
+  }
+]

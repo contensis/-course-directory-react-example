@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Biology BSc",
+        "summary": "Biology is the study of living organisms and their interactions with each other and their environment. From the smallest microorganisms to the largest mammals, every living thing is an integral part of the complex web of life.",
+        "ucasCode": "BI01",
+        "ukFee": "£9,250",
+        "entryRequirements": "112",
+        "location": "Ludlow",
+        "startDate": "September",
+        "content": "<p>Biology is the study of life and all its diverse forms. In this course, students will gain a comprehensive understanding of the fundamental concepts and principles of this fascinating subject. They will explore the structure and function of living organisms, including plants and animals, and the interactions between them and their environment.</p><p>Throughout the course, students will learn about the cell, genetics, evolution, ecology, and the diversity of life on Earth. They will also examine the impact of human activities on the environment and the importance of conservation efforts.</p><p>In addition to lectures, students will participate in hands-on laboratory exercises to develop their laboratory skills and gain practical experience. These exercises will include dissections, microscopy, and various techniques for studying cells and organisms.</p><p>By the end of the course, students will have a strong foundation in the principles of biology and will be able to apply their knowledge to current issues facing our planet and its inhabitants. They will also be equipped with the critical thinking and problem-solving skills necessary to pursue advanced study or careers in the life sciences.</p><p>Overall, this course will provide a comprehensive and engaging introduction to the study of biology, preparing students for a lifelong appreciation of the natural world and its complexity.</p>",
+        "sys": {
+            "contentTypeId": "course",
+            "id": "992f3138-285d-4f92-9b8e-15065315a516",
+            "projectId": "playground",
+            "language": "en-GB",
+            "dataFormat": "entry",
+            "versionStatus": "published"
+        }
+    },
+    {
+        "ucasCode": "LUDSCW101",
+        "entryRequirements": "2:1",
+        "ukFee": "£11,500",
+        "location": "Ludlow",
+        "title": "Social Work MSc",
+        "startDate": "September",
+        "summary": "The Master of Social Work program at Ludlow University prepares students to become highly skilled and effective social work professionals. The program is designed to provide students with a deep understanding of social work theories and principles, as well as the skills and knowledge necessary to address the complex social issues faced by individuals, families, and communities.",
+        "content": "<p>The program focuses on developing students' critical thinking and problem-solving skills, as well as their ability to engage in evidence-based practice, research, and policy analysis. Through a combination of classroom instruction, field education, and experiential learning opportunities, students are equipped to provide effective and compassionate services to diverse populations.</p><p>The program is offered in both full-time and part-time formats, with flexible scheduling options to accommodate the needs of working professionals. The curriculum includes courses in social work practice, human behaviour and the social environment, social welfare policy, research methods, and more.</p><p>Students will also engage in hands-on learning through supervised field placements, providing them with practical experience working in a variety of social work settings such as healthcare, mental health, child welfare, and community organisations. The program emphasises the importance of self-reflection and self-care, preparing students to manage the emotional demands of social work practice.</p><p>Upon completion of the program, graduates are well-prepared to pursue careers as clinical social workers, policy analysts, researchers, program directors, and more. They are also prepared to pursue advanced study in social work or related fields.</p>",
+        "sys": {
+        "contentTypeId": "course",
+        "projectId": "playground",
+        "language": "en-GB",
+        "dataFormat": "entry",
+        "versionStatus": "published",
+        "id": "7b97bab5-24aa-4bc4-99c8-6f7a339ce25a"
+        }
+    },
+    {
+        "ucasCode": "LUDSCW101",
+        "entryRequirements": "2:1",
+        "ukFee": "£11,500",
+        "location": "Ludlow",
+        "title": "History BA",
+        "startDate": "September",
+        "summary": "History is a fascinating subject that explores the past and the events that have shaped our world. This university course provides students with a comprehensive overview of world history, including the development of cultures, civilisations, and nations.",
+        "content": "<p>The course begins with an examination of the early civilisations of Mesopotamia, Egypt, and China, and covers their political, economic, and cultural systems. The course then moves on to study the mediaeval period, including the rise of feudalism, the Crusades, and the Black Death.</p><p>The Renaissance and Enlightenment periods are covered in detail, including the scientific, artistic, and philosophical revolutions that took place. The course then explores the French Revolution and the rise of Napoleon, followed by the Industrial Revolution and the colonial era.</p><p>Students will also study the world wars of the 20th century, including World War I and World War II, and the Cold War. The course will also cover the evolution of modern-day politics and economics, including the rise of globalisation and the impact of technology on society.</p><p>Throughout the course, students will engage in critical thinking, analysis, and discussion, and will gain a deeper understanding of the historical events and their impact on our world. The course is taught by experienced professors, who will provide students with a wealth of knowledge and expertise in the field of history.</p><p>In addition to lectures and readings, students will complete a research project, where they will have the opportunity to explore a topic of their choice in more depth. By the end of the course, students will have a comprehensive understanding of world history and will be well equipped to continue their studies in the field.</p>",
+        "sys": {
+        "contentTypeId": "course",
+        "projectId": "playground",
+        "language": "en-GB",
+        "dataFormat": "entry",
+        "versionStatus": "published",
+        "id": "8c7981dd-064e-4391-a0a4-93bdff50b901"
+        }
+    },
+    {
+        "ucasCode": "LUDBUS001",
+        "entryRequirements": "144",
+        "ukFee": "£9,250",
+        "location": "Ludlow",
+        "title": "Business Studies BSc",
+        "startDate": "September",
+        "summary": "Business Studies is a comprehensive and dynamic field that explores the various aspects of managing and operating a successful business. This course is designed for students who are interested in pursuing a career in business or entrepreneurship and seeks to equip them with the necessary knowledge, skills, and practical experience to succeed in this competitive industry.",
+        "content": "<p>The course covers a range of topics including marketing, finance, economics, operations management, human resource management, and strategic management. Students will learn about the principles and theories that underpin these areas and will apply them to real-life case studies and practical exercises.</p><p>The course also provides students with the opportunity to develop their critical thinking and problem-solving skills. Through lectures, discussions, and team projects, students will learn how to analyse and evaluate business practices and strategies, as well as make informed decisions based on data and evidence.</p><p>Additionally, the course will also touch upon various contemporary business issues such as sustainability, ethical practices, and globalisation. Students will explore these topics in depth and gain an understanding of the impact that these issues have on businesses and the wider economy.</p><p>By the end of the course, students will have a thorough understanding of the business world, including the key concepts, practices, and theories that drive business success. They will also have developed valuable skills in critical thinking, problem-solving, and communication, which will serve them well in any business-related career they choose to pursue.</p>",
+        "sys": {
+        "contentTypeId": "course",
+        "projectId": "playground",
+        "language": "en-GB",
+        "dataFormat": "entry",
+        "versionStatus": "published",
+        "id": "52b5989a-bfa4-4505-bfad-99127604439a"
+        }
+    },
+    {
+        "ucasCode": "LUDOCC101",
+        "entryRequirements": "2:1",
+        "ukFee": "£11,500",
+        "location": "Ludlow",
+        "title": "Occupational Therapy MSc",
+        "startDate": "September",
+        "summary": "The Master's program in Occupational Therapy at Ludlow University is designed to provide students with a comprehensive understanding of the field of occupational therapy and equip them with the necessary knowledge and skills to become competent and effective occupational therapists. The program is offered over a period of two years and includes both theoretical and practical coursework, as well as supervised fieldwork experiences.",
+        "content": "<p>The coursework for the Master's program in Occupational Therapy covers a range of topics, including anatomy and physiology, kinesiology, neuroscience, psychosocial aspects of health and disability, assistive technology, and research methods. In addition, students will also take courses in therapeutic intervention strategies, such as therapeutic exercise, occupational analysis, and occupational performance assessment.</p><p>The program includes supervised fieldwork experiences, which give students the opportunity to apply their knowledge and skills in real-world settings. The fieldwork experiences are designed to provide students with a variety of clinical experiences across different settings, such as hospitals, rehabilitation centres, schools, and community-based organisations.</p><p>As part of the program, students will also be required to complete a research project that contributes to the field of occupational therapy. This project allows students to gain experience in conducting research, analysing data, and presenting their findings.</p><p>Graduates of the program will be prepared for a variety of careers in occupational therapy, including positions in hospitals, rehabilitation centres, schools, and private practices. They may also choose to pursue research or teaching positions in academic or research settings.</p><p>Overall, the Master's program in Occupational Therapy at Ludlow University provides students with a comprehensive and rigorous education in the field of occupational therapy, preparing them for successful careers as occupational therapists.</p>",
+        "sys": {
+        "contentTypeId": "course",
+        "projectId": "playground",
+        "language": "en-GB",
+        "dataFormat": "entry",
+        "versionStatus": "published",
+        "id": "ef56592b-d9a8-417a-9b69-1ded4c89bb5b"
+        }
+    }
+]
